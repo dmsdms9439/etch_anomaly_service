@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-04-23T16:45:00.000Z",
+  "run_name": "TEST_RUN_001",
+  "fault_name": "Normal",
+  "sensors": {
+    "spectral": {
+      "250.0": 1500.0,
+      "261.8": 16000.0
+    },
+    "process": {
+      "BCl3_Flow": 750.0,
+      "Cl2_Flow": 750.0,
+      "RF_Btm_Pwr": 130.0,
+      "Pressure": 1260.0,
+      "Vat_Valve": 48.0
+    }
+  },
+  "is_synthetic": false,
+  "synthesis_method": "original"
+}

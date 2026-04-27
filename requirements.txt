@@ -1,0 +1,29 @@
+# Kafka 관련
+kafka-python==2.0.2
+
+# 데이터 처리
+pandas==2.1.0
+numpy==1.24.3
+
+# 머신러닝
+lightgbm==4.1.0
+catboost==1.2.2
+scikit-learn==1.3.0
+
+# XAI
+shap==0.43.0
+
+# 모니터링 및 로깅
+python-json-logger==2.0.7
+prometheus-client==0.18.0
+
+# 캐싱
+redis==5.0.1
+
+# 데이터베이스 (선택사항)
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+
+# 유틸리티
+python-dotenv==1.0.0
+tqdm==4.66.1
